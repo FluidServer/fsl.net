@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>FluidServer.fsl</id>
+    <version>1.0.0</version>
+    <authors>fgclue</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT OR Apache-2.0</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>http://fluidserver.biitle.nl/</projectUrl>
+    <description>Fluidserver .fsl Parser for .NET</description>
+    <copyright>(c) 2025 biitle.nl</copyright>
+    <tags>FluidServer POS</tags>
+	<readme>README.md</readme>
+  </metadata>
+	<files>
+		<file src="README.md" />
+	</files>
+</package>
