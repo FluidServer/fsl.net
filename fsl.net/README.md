@@ -19,23 +19,23 @@ using System.Text.Json; // for printing
 
 namespace MyProject
 {
-    internal class Program
+    internal class Program               
     {
         static void Main()
-        {
+        {          
             var Parser = new fsl.net.Parser();
 
-            var parsed = Parser.Parse(
+            var parsed = Parser.Parse(            
                 "FluidServer .fsl File, 1.0\nTest=abc\n;Test2=abc\n:Test3=abc"
             );
 
-            Console.WriteLine(
+            Console.WriteLine(             
                 "Dictionary = " 
                 + JsonSerializer.Serialize(parsed)
             ); // Dictionary = {"Version":"1","Test":"abc"}
-        }
-    }
-}
+        }            
+    } 
+} 
 
 ```
 
