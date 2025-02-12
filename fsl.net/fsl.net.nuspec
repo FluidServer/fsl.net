@@ -2,18 +2,24 @@
 <package >
   <metadata>
     <id>FluidServer.fsl</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <authors>fgclue</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT OR Apache-2.0</license>
-    <!-- <icon>icon.png</icon> -->
+    <icon>logo.png</icon>
+	<title>fsl.NET - FluidServer Configuration Parser for .NET</title>
     <projectUrl>http://fluidserver.biitle.nl/</projectUrl>
     <description>Fluidserver .fsl Parser for .NET</description>
     <copyright>(c) 2025 biitle.nl</copyright>
     <tags>FluidServer POS</tags>
+	<repository type="git" url="https://github.com/FluidServer/fsl.net.git" branch="trunk" />
 	<readme>README.md</readme>
+	  <releaseNotes>
+		  Tests and other things
+	  </releaseNotes>
   </metadata>
 	<files>
 		<file src="README.md" />
+		<file src="logo.png" />
 	</files>
 </package>
