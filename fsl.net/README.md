@@ -7,6 +7,8 @@ Rust and C# versions are also available:
 - [fsl (Python)](https://github.com/FluidServer/fsl)
 - [fsl.rs (Rust)](https://github.com/FluidServer/fsl.rs)
 
+Documentation is available here: [docs.fluidserver.biitle.nl](https://docs.fluidserver.biitle.nl/docs/fsl%20Parser/net/)
+
 ## What is .fsl?
 .fsl is a file format similar to .ini for FluidServer, an open-source POS-system. Checkout [the example .fsl file](https://github.com/FluidServer/fsl/example.fsl).
 
