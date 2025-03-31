@@ -46,7 +46,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="LICENSE" />
-    <None Include="LICENSE.Apache-2.0" />
+    <None Include="LICENSE-APACHE" />
     <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
